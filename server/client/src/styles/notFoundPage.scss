@@ -1,0 +1,20 @@
+.not-found {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-not-found {
+  width: 500px;
+}
+
+.btn-page-not-found {
+  text-decoration: none;
+  color: white;
+
+  &:hover {
+    color: rgb(10, 10, 10);
+  }
+}
